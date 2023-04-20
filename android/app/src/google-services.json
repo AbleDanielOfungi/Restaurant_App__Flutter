@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55935289450",
+    "project_id": "abbb-63796",
+    "storage_bucket": "abbb-63796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55935289450:android:7e4d72331b1e08908da213",
+        "android_client_info": {
+          "package_name": "com.example.plants_care_uganda_ltd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55935289450-c4fduoc60uca9on86rrevgrhdacqfc94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt1qyZUlr4zx4HPE1sxjSh1d9KV91QtXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55935289450-c4fduoc60uca9on86rrevgrhdacqfc94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
